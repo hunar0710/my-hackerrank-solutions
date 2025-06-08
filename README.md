@@ -1,0 +1,1 @@
+These are the solutions to the HackerRank problems provided in the LMS portal. The languages used may be different for each problem (PyPy3, Python 2, Python 3). All the test cases passed when the code was run in HackerRank.
